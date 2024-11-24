@@ -11,7 +11,7 @@ models/*.h5
 models/*.keras
 
 # Large data files
-data/
+data/processed/
 
 # OS files
 .DS_Store
